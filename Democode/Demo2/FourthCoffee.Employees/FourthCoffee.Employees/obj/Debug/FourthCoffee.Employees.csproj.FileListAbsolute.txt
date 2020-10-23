@@ -1,0 +1,12 @@
+C:\Curso\20483\Luismi\Tareas\Mod07_T20483\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\FourthCoffee.Employees.exe.config
+C:\Curso\20483\Luismi\Tareas\Mod07_T20483\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\FourthCoffee.Employees.exe
+C:\Curso\20483\Luismi\Tareas\Mod07_T20483\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\FourthCoffee.Employees.pdb
+C:\Curso\20483\Luismi\Tareas\Mod07_T20483\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.dll
+C:\Curso\20483\Luismi\Tareas\Mod07_T20483\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.SqlServer.dll
+C:\Curso\20483\Luismi\Tareas\Mod07_T20483\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.xml
+C:\Curso\20483\Luismi\Tareas\Mod07_T20483\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.SqlServer.xml
+C:\Curso\20483\Luismi\Tareas\Mod07_T20483\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.csprojAssemblyReference.cache
+C:\Curso\20483\Luismi\Tareas\Mod07_T20483\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.csproj.CoreCompileInputs.cache
+C:\Curso\20483\Luismi\Tareas\Mod07_T20483\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.csproj.CopyComplete
+C:\Curso\20483\Luismi\Tareas\Mod07_T20483\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.exe
+C:\Curso\20483\Luismi\Tareas\Mod07_T20483\Democode\Demo2\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.pdb
